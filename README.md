@@ -1,6 +1,6 @@
 ## About
 
-World of Wisdom DDOS Protected TCP Server with Proof of Work by hashcash
+Word of Wisdom DDOS Protected TCP Server with Proof of Work by Hashcash
 
 ## The Task
 
