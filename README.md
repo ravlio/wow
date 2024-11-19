@@ -23,8 +23,8 @@ These properties make Hashcash ideal for establishing trust in decentralized sys
 ## Build and Test
 
 ```shell
-make buold-docker-client
-make buold-docker-server
+make build-docker-client
+make build-docker-server
 ```
 
 ## Run
